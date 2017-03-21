@@ -1,7 +1,7 @@
 {
   "name": "vue-ring",
   "description": "vue ring chart",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "lishuo.tomi@gmail.com",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
