@@ -2,17 +2,11 @@
 
 > vue ring chart
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+Sorry. this repo has been move to vue-loops for a set of UI components.
+you could also use only ring component only in that repo.
 
-# serve with hot reload at localhost:8080
-npm run dev
+looking for more information. 
 
-# build for production with minification
-npm run build
-```
+https://github.com/tomi-li/vue-loops  
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
