@@ -1,7 +1,7 @@
 {
   "name": "vue-ring",
   "description": "vue ring chart",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": "lishuo.tomi@gmail.com",
   "main": "src/index.js",
   "scripts": {
